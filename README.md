@@ -9,3 +9,4 @@ Example
 'My name is Alan,' + ' I concatenate.'
 
 Note: Watch out for spaces. Concatenation does not add spaces between concatenated strings, so you'll need to add them yourself.
+
