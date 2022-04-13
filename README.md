@@ -13,3 +13,5 @@ Note: Watch out for spaces. Concatenation does not add spaces between concatenat
    Example:
 
                const ourStr = "I come first. " + "I come second.";
+The string I come first. I come second. would be displayed in the console.
+
