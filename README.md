@@ -17,3 +17,4 @@ Note: Watch out for spaces. Concatenation does not add spaces between concatenat
 The string I come first. I come second. would be displayed in the console.
 
 Build myStr from the strings This is the start.
+
