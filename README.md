@@ -6,3 +6,4 @@ In JavaScript, when the + operator is used with a String value,
  
 Example
 
+'My name is Alan,' + ' I concatenate.'
