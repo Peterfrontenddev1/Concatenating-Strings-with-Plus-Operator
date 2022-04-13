@@ -25,3 +25,5 @@ using the + operator.
 Be sure to include a space between the two strings.
 
 You should use the + operator to build myStr.
+
+myStr should be created using the const keyword.
