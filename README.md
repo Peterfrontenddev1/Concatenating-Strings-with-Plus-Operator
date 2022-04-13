@@ -28,3 +28,4 @@ You should use the + operator to build myStr.
 
 myStr should be created using the const keyword.
 
+You should assign the result to the myStr variable.
