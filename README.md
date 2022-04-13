@@ -10,6 +10,6 @@ Example
 
 Note: Watch out for spaces. Concatenation does not add spaces between concatenated strings, so you'll need to add them yourself.
 
-Example:
+   Example:
 
-const ourStr = "I come first. " + "I come second.";
+               const ourStr = "I come first. " + "I come second.";
