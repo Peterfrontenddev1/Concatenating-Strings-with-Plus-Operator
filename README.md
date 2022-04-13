@@ -21,3 +21,4 @@ Build myStr from the strings This is the start.
 and This is the end.
 
 using the + operator. 
+Be sure to include a space between the two strings.
